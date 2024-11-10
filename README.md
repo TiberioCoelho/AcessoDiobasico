@@ -4,5 +4,5 @@
 <br> Para exemplificar foi criado um pequeno projeto de cadastro de acesso.<br>
 Neste Projeto temos duas funções que é cadastro e relátorio.
 Coloquei um arquivo jar para executar direto e os códigos fontes para visualização.<br>
-Ao executar pela primeira vez será gerado um arquivoDB.txt onde serão guardados os dados do acesso. 
+Ao executar pela primeira vez será gerado um arquivoDB.txt onde serão guardados os dados do acesso.<br> 
 At.te Tibério Coelho 
